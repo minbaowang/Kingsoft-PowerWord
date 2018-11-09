@@ -1,0 +1,14 @@
+.weui-tabbar {
+	height: 49px!important;
+	background: #fff!important;
+	position:fixed!important;
+	bottom:0;
+}
+
+.weui-tabbar__icon {
+	width: 21px!important;
+	height: 21px!important;
+}
+.weui-tabbar__labelgreen{
+	color:#35a9ff!important;
+}

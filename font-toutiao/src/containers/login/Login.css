@@ -1,0 +1,32 @@
+.box{
+    width:400px;
+    background:#ccc;
+    overflow: hidden;
+    position: absolute;
+    border-radius: 3px;
+    padding:5px;
+}
+.box p{
+    font-size:18px;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.box .input-group{
+    margin-top:5px;
+}
+.box .user{
+    margin:20px 90px;
+}
+.box .user input{
+    display: inline-block;
+    margin:0 20px;
+}
+.fl{
+    margin-left: 30%;
+    float:left;
+}
+.fr{
+    margin-left: 40px;
+    float:left;
+}

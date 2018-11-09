@@ -1,0 +1,27 @@
+.allboxxx{
+    position: relative;
+    background-color: black;
+}
+.boxxx{
+    width:100%;
+    height: 100%;
+    
+}
+.welcommm{
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top:200px;
+    left:140px;
+    font-size: 50px;
+    color:yellow;
+}
+.linkss{
+    width:200px;
+    height: 40px;
+    position: absolute;
+    top:280px;
+    left:340px;
+    font-size: 20px;
+    color:red;
+}
