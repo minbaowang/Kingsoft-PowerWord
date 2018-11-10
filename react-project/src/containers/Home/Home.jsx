@@ -10,9 +10,9 @@ import Jcontent  from '../../components/Jcontent/Jcontent.jsx';
 class Home extends Component {
     render() {
         return (
-            <div>
-                <Jfooter />
+            <div>              
                 <Jcontent/>
+                <Jfooter />
             </div>
         );
     }

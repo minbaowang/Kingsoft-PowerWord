@@ -1,3 +1,49 @@
+.picture1{
+	background:url(../../img/fsj.png) no-repeat;
+	background-size: 21px 21px;
+	background-position: 50% 20%;
+	font-size:12px;
+	line-height: 60px;
+}
+.picture2{
+	background:url(../../img/email.png) no-repeat;
+	background-size: 21px 21px;
+	background-position: 50% 20%;
+	font-size:12px;
+	line-height: 60px;
+}
+.picture3{
+	background:url(../../img/logo.png) no-repeat;
+	background-size: 21px 21px;
+	background-position: 50% 20%;
+	font-size:12px;
+	line-height: 60px;
+}
+.active1{
+	background:url(../../img/logo1.png) no-repeat;
+	background-size: 21px 21px;
+	background-position: 50% 20%;
+	font-size:12px;
+	line-height: 60px;
+	color:#35a9ff!important;
+}
+.active2{
+	background:url(../../img/book.png) no-repeat;
+	background-size: 21px 21px;
+	background-position: 50% 20%;
+	font-size:12px;
+	line-height: 60px;
+	color:#35a9ff!important;
+}
+.active3{
+	background:url(../../img/listen.png) no-repeat;
+	background-size: 21px 21px;
+	background-position: 50% 20%;
+	font-size:12px;
+	line-height: 60px;
+	color:#35a9ff!important;
+}
+
 .weui-tabbar {
 	height: 49px!important;
 	background: #fff!important;
@@ -5,10 +51,4 @@
 	bottom:0;
 }
 
-.weui-tabbar__icon {
-	width: 21px!important;
-	height: 21px!important;
-}
-.weui-tabbar__labelgreen{
-	color:#35a9ff!important;
-}
+
